@@ -6,4 +6,8 @@
     <RootNamespace>Lab04_Tic_Tac_Toe</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\xUnit-Tic-Tac-Test\xUnit-Tic-Tac-Test.csproj" />
+  </ItemGroup>
+
 </Project>
